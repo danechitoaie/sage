@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+members = [
+    "sage",
+    "sage_derive",
+]
+
+[workspace.package]
+edition = "2021"
+authors = ["Daniel Anechitoaie <daniel.anechitoaie@gmail.com>"]
+license = "MIT"
+documentation = "https://docs.rs/sage/"
+homepage = "https://github.com/danechitoaie/sage"
+repository = "https://github.com/danechitoaie/sage"

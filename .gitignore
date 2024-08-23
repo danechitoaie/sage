@@ -1,8 +1,5 @@
-# Sage
-/sage/target/
-
-# Sage derive
-/sage_derive/target/
+# Cargo
+/target/
 
 # Mac OS
 .DS_Store
